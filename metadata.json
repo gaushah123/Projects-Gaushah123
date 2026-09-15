@@ -1,0 +1,7 @@
+{
+  "name": "WealthCraft - Portfolio Builder & Proposal Generator",
+  "description": "Institutional portfolio builder and proposal generator for AMFI & APMI funds with trailing returns vs benchmark, risk metrics (Sharpe, Sortino), sector & market-cap X-ray, top holdings, Monte Carlo simulation, and editable PPT export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
